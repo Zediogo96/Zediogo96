@@ -54,8 +54,9 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zediogo96&theme=dark&background=000000)](https://git.io/streak-stats
+
+## Github Stats  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zediogo96&theme=dark&background=000000)](https://git.io/streak-stats)
   
 ## Some of my projects 📁
   
