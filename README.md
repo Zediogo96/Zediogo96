@@ -17,7 +17,7 @@
 ## About me:
 🔭 I’m currently working on college projects in various areas
   
-🌱 I’m currently learning : WebDevelopment (more precisely React) and UI/UX Design.
+🌱 I’m currently learning : Web Development (currently React) and UI/UX Design.
 
   👨‍💻 Currently looking for a curricular internship program
 
