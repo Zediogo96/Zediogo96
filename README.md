@@ -29,9 +29,9 @@
   Mail me [here](mailto:zediogox@hotmail.com) or browse my socials below.  
 
  ⚡ Fun facts: 
-  I like to play chess, even tho I'm horrible at it! 🎾
-  I like to listen to all types of musical, but mainly metal / prog. 🎧
-  I'm really into F1, and I like to play SimRacing games. 
+  I like to play chess, even tho I'm horrible at it! ♟️ <br>
+  I like to listen to all types of musical, but mainly metal / prog. 🎧 <br>
+  I'm really into F1, and I like to play SimRacing games. 🏎️ <br>
 
 ## Socials 🌐
 
