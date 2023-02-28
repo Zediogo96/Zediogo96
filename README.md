@@ -19,7 +19,7 @@
   
 🌱 I’m currently learning : Web Development (currently React) and UI/UX Design.
 
-  👨‍💻 Currently looking for a curricular internship program
+  👨‍💻 Currently doing my curricular Internship @ Deloitte.
 
   💬 Ask me about software engineering, programming, or anything related to computers in general 🖥️
   
