@@ -15,7 +15,7 @@
 ## About me:
 🔭 I’m currently working on college projects in various areas
   
-🌱 I’m currently learning : Web Development, currently working with technologies like React, NextJS, TailwindCSS.
+🌱 I’m currently learning : Web Development, currently working with technologies like React, NextJS and TailwindCSS.
 
   👨‍💻 I've completed my curricular Internship @ Deloitte, looking for a new opportunity.
 
