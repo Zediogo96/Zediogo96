@@ -2,8 +2,6 @@
 **Zediogo96/Zediogo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -17,16 +15,16 @@
 ## About me:
 🔭 I’m currently working on college projects in various areas
   
-🌱 I’m currently learning : Web Development (currently React) and UI/UX Design.
+🌱 I’m currently learning : Web Development, currently working with technologies like React, NextJS, TailwindCSS.
 
-  👨‍💻 Currently doing my curricular Internship @ Deloitte.
+  👨‍💻 I've completed my curricular Internship @ Deloitte, looking for a new opportunity.
 
   💬 Ask me about software engineering, programming, or anything related to computers in general 🖥️
   
   🧠 “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” ― Edsger W. Dijkstra
 
   📫 How to reach me:  <br> 
-  Mail me [here](mailto:zediogox@hotmail.com) or browse my socials below.  
+  Mail me [here](mailto:josediogo96@outlook.com) or browse my socials below.  
 
  ⚡ Fun facts: 
   I like to play chess, even tho I'm horrible at it! ♟️ <br>
