@@ -35,12 +35,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josédpinto) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Awesome](https://awesome.re/badge.svg)](https://zediogo96.github.io/portfolio/)
-
-
-## Portfolio
-
-[[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)](https://zediogo96.github.io/portfolio/)
+[![Awesome](https://awesome.re/badge.svg/style=for-the-badge)](https://zediogo96.github.io/portfolio/)
 
 ## Tech Stack 💻 
   
