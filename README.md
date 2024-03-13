@@ -33,7 +33,7 @@
 
 ## Portfolio 🌐
 
-[![Awesome](https://awesome.re/badge.svg)](https://zediogo96.github.io/portfolio/)
+[![Portfolio](https://awesome.re/badge.svg)](https://zediogo96.github.io/portfolio/)
 
 ## Socials 🌐
 
